@@ -1,0 +1,151 @@
+deka                	blanket             	that                	deka
+spored              	schedule            	according to        	spored
+kaj                 	what                	where               	kaj
+grad                	castle              	town                	grad
+sad                 	fruit               	vessel              	sad
+možat               	manly                 	they can            	možat
+nego                	care                	him                 	nego
+niz                 	string              	through             	niz
+pak                 	puck                	again               	pak
+člen                	article             	member              	člen
+boja                	buoy               	    color               	boja
+oblast              	authority           	area                	oblast
+zbor                	chorus              	word                	zbor
+posle               	deals               	after               	posle
+pari                	pairs               	money               	pari
+saka                	jacket              	loves               	saka
+lice                	cheek                	face              	    lice
+igrač               	toys                	player              	igrač
+stranski            	lateral             	foreign             	stranski
+pol                 	half                	gender              	pol
+kolo                	bike                	circuit             	kolo
+vrv                 	rope                	peak                	vrv
+sum                 	suspicion           	am                  	sum
+dejstvo             	fact                	action              	dejstvo
+kaže                	shows               	say                 	kaže
+nemalo              	quite a bit         	there was none      	nemalo
+delat               	to work             	share               	delat
+doznava             	remittance          	finds out           	doznava
+čas                 	time                	hour                	čas
+krst                	baptism             	cross               	krst
+smetka              	trash               	account             	smetka
+bran                	protected           	wave                	bran
+zračenje            	ventilation         	radiation           	zračenje
+stav                	bet                 	attitude            	stav
+kola                	farmer's wagon          car                 	kola
+plati               	sides               	pay                 	plati
+prihod              	arrival             	income              	prihod
+mraz                	the cold            	ice                 	mraz
+podolgo             	long                	longer              	podolgo
+stava               	a bet               	puts                	stava
+nastava             	setup               	teaching            	nastava
+jadro               	the sail            	core                	jadro
+leto                	year                	summer              	leto
+griža               	dysentery           	concern             	griža
+maslo               	butter              	oil                 	maslo
+bukva               	beech tree          	letter              	bukva
+stoka               	moan                	goods               	stoka
+struga                  riverbed                scraper                 struga
+pomlad                  spring                  younger                 pomlad
+zagovor                 defense                 conspiracy              zagovor
+kadar                   when                    staff                   kadar
+šteti                   count                   damage                  šteti
+pečatenje               sealing                 printing                pečatenje
+lesen                   wooden                  easy                    lesen
+kletka                  cage                    cell                    kletka
+poguben                 pernicious              executed                poguben
+voz                     wagon                   train                   voz
+brana                   harrow                  dam                     brana
+mesečina                moonlight               moon                    mesečina
+strada                  starving                suffers                 strada
+zrak                    air                     beam                    zrak
+šminka                  lipstick                makeup                  šminka
+preden                  before                  front                   preden
+rob                     edge                    slave                   rob
+slog                    style                   syllable                slog
+zalaga                  he stocks               stands for              zalaga
+ramen                   shoulders               flat                    ramen
+družina                 family                  friends                 družina
+vilica                  fork                    jaw                     vilica
+tečen                   annoying                liquid                  tečen
+posilni                 rape                    stronger                posilni
+žali                    offends                 sorry                   žali
+česen                   garlic                  honest                  česen
+prost                   free                    stupid                  prost
+roza                    pink                    a rose                  roza
+upati                   to hope                 directed                upati
+dobrina                 commodity               kindness                dobrina
+mladič              	offspring           	young man           	mladič
+nadležen            	annoyed             	competent           	nadležen
+neverstvo           	irreligious          	cheating            	neverstvo
+netočen             	inaccurate          	incorrect           	netočen
+poprečen            	transverse          	obstructed          	poprečen
+revija              	magazine            	show                	revija
+ročnost             	handiness           	due date            	ročnost
+splet               	web                 	tangle              	splet
+topot               	stomp               	the cannon          	topot
+čador               	chador              	an umbrella         	čador
+česno               	garlic              	honestly            	česno
+bali                	they were afraid    	bales               	bali
+pek                 	the baker           	heat                	pek
+denar               	money               	denar               	denar
+žar                 	barbecue            	ember               	žar
+reč                 	thing               	word                	reč
+sklon               	inclination         	inclined            	sklon
+skut                	cottage cheese      	lap                 	skut
+tesnec              	gasket              	strait              	tesnec
+rakav               	cancer              	a sleeve            	rakav
+snaga               	clean               	strength            	snaga
+trkanje             	knocking            	racing              	trkanje
+ljubezen            	love                	kind                	ljubezen
+mesti               	cities              	move                	mesti
+sečila              	urinary tract       	blades              	sečila
+kosten              	bone                	chestnut            	kosten
+osip                	decrease             	rash                	osip
+rusa                	russian             	blonde              	rusa
+svojstven           	peculiar            	characteristic          svojstven
+kape                	caps                	dripping            	kape
+podred              	suborder            	order               	podred
+pomen               	meaning             	commemoration       	pomen
+praska              	scratch             	peach               	praska
+veliko              	a lot               	great               	veliko
+blagodaren          	benevolent          	grateful            	blagodaren
+zagovornik          	advocate            	conspirator         	zagovornik
+razreden            	classy              	diluted             	razreden
+toga                	rigid               	gown                	toga
+krepost             	virtue              	fortress            	krepost
+obraz               	face                	cheek               	obraz
+sprava              	reconciliation      	equipment           	sprava
+tako                	so                  	taco                	tako
+nagovor             	address             	persuasion          	nagovor
+snemalo             	recording           	ran out             	snemalo
+temnica             	dark room           	darkness            	temnica
+štedilnica          	stove               	savings bank        	štedilnica
+krasti              	to steal            	scabies             	krasti
+krma                	feed                	stern               	krma
+krut                	cruel               	stiff               	krut
+neveren             	faithless           	unfaithful          	neveren
+oblasten            	authoritative       	regional            	oblasten
+pecivo              	pastries            	baking powder       	pecivo
+potres              	an earthquake       	shock               	potres
+premer              	diameter            	measurement             premer
+prestava            	gear                	performance       	    prestava
+razložen            	explained           	decomposed          	razložen
+propasti            	fail                	perish              	propasti
+samodržec           	recluse             	absolutist            	samodržec
+dokaj               	fairly              	about               	dokaj
+bradavica           	wart                	nipple              	bradavica
+delovnik            	weekday             	business book       	delovnik
+pogodben            	contractual         	conditional           	pogodben
+sklada              	fund                	warehouse           	sklada
+stegne              	thighs              	tighten up          	stegne
+nagovoren           	addressed           	persuaded           	nagovoren
+riti                	asses                 	kicks               	riti
+studenec            	the well            	spring             	    studenec
+neporočen           	unmarried           	innocent           	    neporočen
+neroden             	clumsy              	unborn              	neroden
+neslovenski         	non-slovenian       	non-slavic          	neslovenski
+slovenski               slovenian               slavic                  slovenski
+popravilen          	repairable          	more correct            popravilen
+porok               	guarantor           	a vice              	porok
+stolp               	the tower           	pillar                	stolp
